@@ -1,9 +1,8 @@
 <h1>CODING CHALLENGE
 GENERATIVE ART PROJECT</h1>
-<br>
-<br>
 Leverage the P5.js library to generate a piece of artwork!
-
+<br>
+<br>
 <b>PURPOSE</b>
 <br>
 Observe your level of creativity and approach when tackling a challenge. You can provide a solution that is as simple or complex as you like.
