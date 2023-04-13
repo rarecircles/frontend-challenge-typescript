@@ -1,6 +1,7 @@
 <h1>CODING CHALLENGE
 GENERATIVE ART PROJECT</h1>
 <br>
+<br>
 Leverage the P5.js library to generate a piece of artwork!
 
 <b>PURPOSE</b>
